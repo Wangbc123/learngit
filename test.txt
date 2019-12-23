@@ -1,2 +1,3 @@
 test file
 for test deleting file
+Test file added a new line
